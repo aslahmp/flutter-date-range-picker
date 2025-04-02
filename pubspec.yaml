@@ -10,25 +10,25 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.6
+  cupertino_icons:
 
-  intl: ^0.18.1
+  intl: 
 
-  syncfusion_flutter_datepicker: ^23.1.44
+  syncfusion_flutter_datepicker: 
 
-  pattern_formatter: 3.0.0
+  pattern_formatter: 
 
-  flutter_svg: ^2.0.9
+  flutter_svg: 
 
-  debounce_throttle: 2.0.0
+  debounce_throttle: 
 
-  pointer_interceptor: ^0.10.1
+  pointer_interceptor: 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  flutter_lints: ^3.0.1
+  flutter_lints: 
 
 flutter:
   uses-material-design: true
